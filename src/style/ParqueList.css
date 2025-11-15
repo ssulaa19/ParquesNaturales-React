@@ -1,0 +1,8 @@
+.imagenComunidad {
+    outline: 2px solid #000;
+
+}
+
+.imagenComunidad:hover {
+    outline: aqua solid 2px; 
+}
